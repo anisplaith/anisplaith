@@ -1,9 +1,9 @@
 ### Olá, bem vindo(a) ao meu perfil! Eu sou a Rayane :)
 <br>
-<div align="center">
+<div align="center" border= "solid 2px white">
   <a href="https://github.com/anisplaith">
-  <img height = "160px"  src="https://github-readme-stats.vercel.app/api?username=anisplaith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height = "160px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisplaith&layout=compact&langs_count=7&theme=radical"/>
+  <img height = "150px"  src="https://github-readme-stats.vercel.app/api?username=anisplaith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height = "150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisplaith&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block" >
