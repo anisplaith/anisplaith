@@ -1,6 +1,9 @@
-### Olá, bem vindo(a) ao meu perfil! Eu sou a Rayane :)
+<h1> Olá, bem vindo(a) ao meu perfil! Eu sou a Rayane :) </h1>
 <br>
-<div align="center" border= "solid 2px white">
+<p> Construindo conhecimento e começando a carreira de desenvolvedora Front-end ~ <3 </p>
+<p> <3 ~ Futuramente uma desenvolvedora Full-Stack</p>
+
+<div align="center">
   <a href="https://github.com/anisplaith">
   <img height="145px"  src="https://github-readme-stats.vercel.app/api?username=anisplaith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisplaith&layout=compact&langs_count=7&theme=radical"/>
