@@ -18,6 +18,7 @@
   <img align="center" alt="Ray-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
   <img align="center" alt="Ray-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="Ray-CSS" height="40" width="50" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
 
   <!--<img align="center" alt="Ray-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
