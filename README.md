@@ -1,4 +1,4 @@
-<h1> Olá, bem vindo(a) ao meu perfil! Eu sou a Rayane :) </h1>
+<h1> Olá, boas-vindas ao meu perfil! Eu sou a Rayane :) </h1>
 <br>
 <p> Construindo conhecimento e começando a carreira de desenvolvedora Front-end ~ <3 </p>
 <p> <3 ~ Futuramente uma desenvolvedora Full-Stack</p>
